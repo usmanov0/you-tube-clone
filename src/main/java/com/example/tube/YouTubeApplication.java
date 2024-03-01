@@ -1,13 +1,13 @@
-package com.example.kunuz;
+package com.example.tube;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class KunUzApplication {
+public class YouTubeApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(KunUzApplication.class, args);
+        SpringApplication.run(YouTubeApplication.class, args);
     }
 
 }
