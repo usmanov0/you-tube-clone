@@ -1,10 +1,10 @@
-package com.example.kunuz;
+package com.example.tube;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class KunUzApplicationTests {
+class YouTubeApplicationTests {
 
     @Test
     void contextLoads() {
