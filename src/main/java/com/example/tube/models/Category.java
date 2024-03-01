@@ -1,6 +1,5 @@
 package com.example.tube.models;
 
-import com.example.tube.enums.Categories;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
